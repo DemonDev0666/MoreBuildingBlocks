@@ -1,0 +1,27 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "DemonDev's More Building Blocks",
+        "description": "Adds More Building Blocks to the game",
+        "uuid": "33db0e4d-6ee9-4f13-ae74-59e8e84fdf76",
+        "min_engine_version": [
+            1,
+            20,
+            40
+        ],
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [{
+        "type": "resources",
+        "uuid": "3ccc17b4-5af2-4072-b8b2-9d87ea45694d",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    }]
+}
